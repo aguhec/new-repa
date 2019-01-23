@@ -1,7 +1,7 @@
 print("hello world");
 print("hello everybory")
-<<<<<<< HEAD
 print("who are you?")
-=======
 print(Why are you here?")
->>>>>>> master
+
+
+print("hello best human")
