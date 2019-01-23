@@ -1,0 +1,2 @@
+print("goodbye all")
+print("hope i will see you tomorrow")
